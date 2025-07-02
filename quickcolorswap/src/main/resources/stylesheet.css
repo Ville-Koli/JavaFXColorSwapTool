@@ -1,0 +1,52 @@
+.label{
+    -fx-text-fill: #000000;
+    -fx-font-family: "Lucida Console";
+    -fx-font-size: 20;
+    -fx-alignment: center;
+    -fx-padding: 10;
+}
+
+.button{
+    -fx-text-fill: #000000;
+    -fx-background-color: #9bddb4;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 10;
+}
+
+.button:hover{
+    -fx-text-fill: #000000;
+    -fx-background-color: #85be9b;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 10;
+}
+
+.maskbutton{
+    -fx-text-fill: #000000;
+    -fx-background-color: #388b58;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-padding: 10;
+}
+
+.maskbutton:hover{
+    -fx-text-fill: #000000;
+    -fx-background-color: #2d6e46;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-padding: 10;
+}
+
+
+.VBox {
+    -fx-border-radius: 10;
+    -fx-border-color: #4d4d4d;
+    -fx-padding: 10;
+}
+
+.box {
+    -fx-border-radius: 10;
+    -fx-border-color: #4d4d4d;
+    -fx-padding: 10;
+}
