@@ -8,3 +8,4 @@
 <li>You can save the resulting png where ever you want with file chooser</li>
 <li>You see changes in realtime</li>
 <li>Simplistic UI</li>
+<li>You can quickly access specific colors by clicking on the preview image</li>
